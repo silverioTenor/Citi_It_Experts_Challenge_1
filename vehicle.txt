@@ -1,0 +1,8 @@
+brand: Fiat Uno,model: way,engine: 1.0,color: preto,price: 130,category: BASICO
+brand: VW GOL,model: G3,engine: 1.0,color: white,price: 150,category: BASICO
+brand: Jeep Renagade,model: std AT,engine: 1.8,price: 350,category: INTERMEDIARIO
+brand: Renault Duster,model: Dynamique,engine: 1.6,price: 350,category: INTERMEDIARIO
+brand: Toyota Hilux,model: SW4,engine: 3.0,price: 1500,category: EXECUTIVO
+brand: GM TrailBlazer,model: LTZ,engine: 3.0,price: 1800,category: EXECUTIVO,
+brand: Porche Cayenne,model: Turbo GT,engine: 4.0,price: 3500,category: PREMIUM
+brand: Ford Mustang,model: March 1,engine: 5.0,price: 4000,category: PREMIUM
